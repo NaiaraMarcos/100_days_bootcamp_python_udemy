@@ -1,4 +1,2 @@
-This project is about the turtle crossing game. The player controls the turtle, which can only go forwards. There is
-a bunch of cars that are generated randomly. The cars go horizontally across the screen.
-When the player reaches the other side of the screen, the cars speed up and the turtle goes back to starting position,
-ready to cross again the screen. It is game over when the turtle hits one of the cars.
+This project is about the turtle crossing game. The player controls the turtle, which can only go forwards. There is a bunch of cars that are generated randomly. The cars go horizontally across the screen.
+When the player reaches the other side of the screen, the cars speed up and the turtle goes back to starting position, ready to cross again the screen. It is game over when the turtle hits one of the cars.
