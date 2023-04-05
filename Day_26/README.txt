@@ -1,0 +1,2 @@
+This project is about how to learn to list and dictionary comprehension. You enter a name or any word, and then it will return a list with the nato phonetic alphabetic that matches the word previously typed.
+The NATO phonetic alphabetic is in a cv file.
